@@ -1,12 +1,12 @@
 # NŌVA — E-commerce React + Vite
 
-Aplicación web de e-commerce desarrollada con React y Vite como parte de la Tarea 2.
+Aplicación web de e-commerce desarrollada con React y Vite.
 
-## 🔗 Demo
+## Demo
 
-> Agrega aquí el link de Vercel después del despliegue
+> (https://nova-g7tf.vercel.app/)
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **React 18** — Biblioteca de UI
 - **Vite 5** — Herramienta de desarrollo y bundler
@@ -14,7 +14,7 @@ Aplicación web de e-commerce desarrollada con React y Vite como parte de la Tar
 - **JavaScript ES6+** — Lógica y funciones
 - **CSS puro** — Estilos y diseño responsive
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 src/
@@ -41,24 +41,24 @@ src/
 └── index.css             # Estilos globales
 ```
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
-- ✅ **8 productos** con imagen, nombre, precio, descripción y categoría
-- ✅ **Carrito de compras** — agregar, eliminar, ajustar cantidad
-- ✅ **Contador de items** en el ícono del carrito
-- ✅ **Búsqueda** de productos en tiempo real
-- ✅ **Filtros por categoría** (muebles, iluminación, decoración, textiles)
-- ✅ **Ordenamiento** por precio y nombre
-- ✅ **Navegación** entre 3 páginas con React Router
-- ✅ **Diseño responsive** para móvil y escritorio
-- ✅ **Hook personalizado** `useProducts` con `useMemo`
-- ✅ **Context API** para estado global del carrito
+- **8 productos** con imagen, nombre, precio, descripción y categoría
+- **Carrito de compras** — agregar, eliminar, ajustar cantidad
+- **Contador de items** en el ícono del carrito
+- **Búsqueda** de productos en tiempo real
+- **Filtros por categoría** (muebles, iluminación, decoración, textiles)
+- **Ordenamiento** por precio y nombre
+- **Navegación** entre 3 páginas con React Router
+- **Diseño responsive** para móvil y escritorio
+- **Hook personalizado** `useProducts` con `useMemo`
+- **Context API** para estado global del carrito
 
-## 🚀 Instalación y uso local
+## Instalación y uso local
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/nova-ecommerce.git
+git clone https://github.com/Fernanda0709/NOVA.git
 cd nova-ecommerce
 
 # Instalar dependencias
@@ -71,7 +71,7 @@ npm run dev
 npm run build
 ```
 
-## ☁️ Despliegue en Vercel
+## Despliegue en Vercel
 
 1. Subir el proyecto a GitHub
 2. Ir a [vercel.com](https://vercel.com) → **Add New Project**
@@ -79,6 +79,6 @@ npm run build
 4. Vercel detecta Vite automáticamente
 5. Clic en **Deploy** ✅
 
-## 👤 Autor
+## Autor
 
-> Tu nombre aquí
+> Luisa Fernanda González Guevara
